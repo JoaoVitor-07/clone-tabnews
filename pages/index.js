@@ -1,4 +1,4 @@
 function Home() {
-    return <h1> Curioso demais para está aqui em ! </h1> 
+    return <h1> Pelo visto, até agora deu tudo certo !!! Graças a Deus !!! </h1> 
 }
 export default Home;
